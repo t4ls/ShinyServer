@@ -1,0 +1,1 @@
+jenkins-ARCH=x86_64,OS=ubuntu-12.04,SLAVE=build-slave-403
